@@ -1,6 +1,13 @@
 # Real-Time Object Tracking
 
 This project provides two Python scripts for real-time object tracking using a webcam feed.
+### Example:
+
+</br>
+<video width="600" controls>
+  <source src="Test.mp4" type="video/mp4">
+</video>
+</br>
 
 ### `tracker.py`
 
